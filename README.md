@@ -1,2 +1,2 @@
 # Cricket-Python-project
-Cricket Life Commentary for 5 overs 
+Cricket Live Commentary for 5 overs. 
